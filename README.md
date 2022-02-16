@@ -6,7 +6,7 @@
 <br/>
 
 <h3>Freelance Web Developer:</h3>
-<p >Focused on building Web Apps using the MERN stack</p>
+<p >Building Web Apps using the MERN stack</p>
 
 </div>
 
