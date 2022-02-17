@@ -13,25 +13,25 @@
 <div style="margin-left: 10px;">
 <h2>Recent Projects</h2>
 <div>
-<a href="https://github.com/AndrewJFleming/embossed-react-ecommerce"><img src="images/embossed logo.png" height="100" align="left"/></a>
+<a href="https://github.com/AndrewJFleming/embossed-react-ecommerce"><img src="images/embossed logo.png" height="100" width="100" align="left"/></a>
 <h4>Cum sociis natoque</h4>
 <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. <a href="">Cum sociis natoque</a></p>
 </div>
 <br/>
 <div>
-<a href=""><img src="images/admin logo.png" height="100" align="left"/></a>
+<a href=""><img src="images/admin logo.png" height="100" width="100" align="left"/></a>
 <h4>Cum sociis natoque</h4>
 <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. <a href="">Cum sociis natoque</a></p>
 </div>
 <br/>
 <div>
-<a href=""><img src="images/purgation logo.png" height="100" align="left"/></a>
+<a href=""><img src="images/purgation logo.png" height="100" width="100" align="left"/></a>
 <h4>Cum sociis natoque</h4>
 <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. <a href="">Cum sociis natoque</a></p>
 </div>
 <br/>
 <div>
-<a href=""><img src="images/maestro, green.png" height="100" align="left"/></a>
+<a href=""><img src="images/maestro, green.png" height="100" width="100" align="left"/></a>
 <h4>Cum sociis natoque</h4>
 <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. <a href="">Cum sociis natoque</a></p>
 </div>
