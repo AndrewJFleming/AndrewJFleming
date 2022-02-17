@@ -2,7 +2,10 @@
 <div align="center">
 <h1 align="center">Andrew J Fleming</h1>
 <br/>
+<a href="https://github.com/AndrewJFleming?tab=repositories">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/MERN-logo.png/320px-MERN-logo.png"/>
+</a>
+
 <br/>
 
 <h3>Freelance Web Developer:</h3>
@@ -38,7 +41,7 @@ Users can browse for and add products to carts and the admin dashboard is a full
 </div>
 <br/>
 <br/>
-<a href="https://github.com/AndrewJFleming?tab=repositories"><em>Check out the repositories list page to explore my full github project portolio.</em></a>
+<em>Check out the <a href="https://github.com/AndrewJFleming?tab=repositories">repositories list page</a> to explore my full github project portolio.</em>
 <br/>
 <br/>
 <br/>
