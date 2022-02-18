@@ -42,7 +42,9 @@ Users can browse for and add products to carts and the admin dashboard is a full
 <br/>
 <br/>
 <div align="center">
+<a href="https://github.com/AndrewJFleming?tab=repositories">
 <img width="400" src="images/WP logo.png"/>
+</a>
 </div>
 
 <div style="margin-left: 10px;">
