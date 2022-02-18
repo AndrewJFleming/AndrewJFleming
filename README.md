@@ -3,7 +3,7 @@
 <h1 align="center">Andrew J Fleming</h1>
 <br/>
 <a href="https://github.com/AndrewJFleming?tab=repositories">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/MERN-logo.png/320px-MERN-logo.png"/>
+<img width="400" src="images/MERN logo.png"/>
 </a>
 
 <br/>
@@ -40,6 +40,11 @@ Users can browse for and add products to carts and the admin dashboard is a full
 <p>CritiqueMe users can browse images posted by other artists and, if they've registered an account, can post critiques/comments. Registered users can also post their own images to the homepage to have them critiqued by other users. Check out the <a href="https://github.com/AndrewJFleming/critique-me">project repo</a> or explore the <a href="https://critique-me.netlify.app/posts">demo site</a> hosted on Netlify.</p>
 </div>
 <br/>
+<br/>
+<div align="center">
+<img width="400" src="images/WP logo.png"/>
+</div>
+
 <div style="margin-left: 10px;">
 <h2>Custom WordPress Themes</h2>
 <div>
@@ -51,7 +56,7 @@ Users can browse for and add products to carts and the admin dashboard is a full
 <div>
 <a href="https://github.com/AndrewJFleming/amandasargentartist"><img src="images/amanda logo.png" height="100" width="100" align="left"/></a>
 <h4>Amanda Sargent Artist Portfolio</h4>
-<p>A custom WP theme designed to feature Amanda Sargent's art portfolio. Visitors can browse pieces and inquire about the price and availability of specific pieces by email. Check out the <a href="https://github.com/AndrewJFleming/amandasargentartist">project repo</a> or explore Amanda's <a href="https://amandasargentartist.com/">live site</a>.</p>
+<p>A custom WP theme designed to feature Amanda Sargent's art portfolio. Visitors can browse her porfolio by category and inquire about the price and availability of specific pieces by email. Check out the <a href="https://github.com/AndrewJFleming/amandasargentartist">project repo</a> or explore Amanda's <a href="https://amandasargentartist.com/">live site</a>.</p>
 </div>
 <br/>
 <br/>
