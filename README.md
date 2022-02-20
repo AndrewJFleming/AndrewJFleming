@@ -58,7 +58,7 @@ Users can browse for and add products to carts and the admin dashboard is a full
 <div>
 <a href="https://github.com/AndrewJFleming/amandasargentartist"><img src="images/amanda logo.png" height="100" width="100" align="left"/></a>
 <h4>Amanda Sargent Artist Portfolio</h4>
-<p>A custom WP theme designed to feature Amanda Sargent's art portfolio. Visitors can browse her porfolio by category and inquire about the price and availability of specific pieces by email. Check out the <a href="https://github.com/AndrewJFleming/amandasargentartist">project repo</a> or explore Amanda's <a href="https://amandasargentartist.com/">live site</a>.</p>
+<p>A custom WP theme designed to feature Amanda Sargent's art portfolio. Visitors can browse her portfolio by category and inquire about the price and availability of specific pieces by email. Check out the <a href="https://github.com/AndrewJFleming/amandasargentartist">project repo</a> or explore Amanda's <a href="https://amandasargentartist.com/">live site</a>.</p>
 </div>
 <br/>
 <br/>
