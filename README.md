@@ -53,9 +53,9 @@ Users can browse for and add products to carts and the admin dashboard is a full
 </div>
 <br/>
 <div>
-<a href="https://github.com/AndrewJFleming/80-caprichos"><img src="images/caprichos-de-goya.png" height="100" width="100" align="left"/></a>
+<a href="https://github.com/AndrewJFleming/caprichos-de-goya"><img src="images/caprichos-de-goya.png" height="100" width="100" align="left"/></a>
 <h4>Caprichos de Goya</h4>
-<p>Caprichos de Goya is a TypeScript conversion of the <a href="https://github.com/AndrewJFleming/80-caprichos">80 Caprichos</a> React.js gallery app. The aim of these projects is to present high resolution scans of Goya's prints and to curate the collection by categorizing the pieces by the the various themes repeated throughout. Check out the <a href="https://github.com/AndrewJFleming/80-caprichos">project repo</a> or explore the <a href="https://caprichos-de-goya.netlify.app/">demo site</a> hosted on Netlify.</p>
+<p>Caprichos de Goya is a TypeScript conversion of the <a href="https://github.com/AndrewJFleming/80-caprichos">80 Caprichos</a> React.js gallery app. The aim of these projects is to present high resolution scans of Goya's prints and to curate the collection by categorizing the pieces by the the various themes repeated throughout. Check out the <a href="https://github.com/AndrewJFleming/caprichos-de-goya">project repo</a> or explore the <a href="https://caprichos-de-goya.netlify.app/">demo site</a> hosted on Netlify.</p>
 </div>
 <br/>
 <br/>
