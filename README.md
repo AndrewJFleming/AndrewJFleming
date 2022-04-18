@@ -1,4 +1,3 @@
-
 <div align="center">
 <h1 align="center">Andrew J Fleming</h1>
 <br/>
@@ -42,9 +41,26 @@ Users can browse for and add products to carts and the admin dashboard is a full
 <br/>
 <br/>
 <div align="center">
-<a href="https://github.com/AndrewJFleming?tab=repositories">
-<img width="400" src="images/WP logo.png"/>
-</a>
+<img width="400" src="images/React logo.png"/>
+</div>
+ 
+<div style="margin-left: 10px;">
+<h2>React Projects</h2>
+<h6>(Non-MERN Stack projects built with React)</h6>
+<div>
+<a href="https://github.com/AndrewJFleming/johnflemingartist"><img src="images/poi-logo.png" height="100" width="100" align="left"/></a>
+<h4>Portraits of Iowa</h4>
+<p>Public artist John Fleming commissioned a website for Portraits of Iowa, the art installation competition where community participents could learn about the project and submit photos that would then be printed onto acrylic panels and assembled into a hanging gallery/sculpture.</p>
+
+<p>Check out the <a href="https://github.com/AndrewJFleming/portraits-of-iowa">project repo</a> or explore the <a href="https://portraits-of-iowa.netlify.app/">demo site</a> hosted on Netlify.</p>
+</div>
+<br/>
+<div>
+<a href="https://github.com/AndrewJFleming/80-caprichos"><img src="images/caprichos-de-goya.png" height="100" width="100" align="left"/></a>
+<h4>Caprichos de Goya</h4>
+<p>Caprichos de Goya is a TypeScript conversion of the <a href="https://github.com/AndrewJFleming/80-caprichos">80 Caprichos</a> React.js gallery app. The aim of these projects is to present high resolution scans of Goya's prints and to curate the collection by categorizing the pieces by the the various themes repeated throughout.</p>
+
+<p>Check out the <a href="https://github.com/AndrewJFleming/80-caprichos">project repo</a> or explore the <a href="https://caprichos-de-goya.netlify.app/">demo site</a> hosted on Netlify.</p>
 </div>
 
 <div style="margin-left: 10px;">
